@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quang-cao/quang-cao-sach/y-tuong-toi-uu-landing-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/quang-cao/quang-cao-sach/y-tuong-toi-uu-landing-page/","tags":["QC","gardenEntry"]}
 ---
 
 # Ý tưởng tối ưu landing page- sử dụng dynamic để tối ưu khách truy cập lần 2 -> giảm giá sách hoặc tặng quà (dynamic content)
