@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quang-cao/quang-cao-sach/y-tuong-toi-uu-landing-page/","tags":["QC","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/quang-cao/quang-cao-sach/y-tuong-toi-uu-landing-page/","tags":["QC","gardenEntry"]}
 ---
 
 # Ý tưởng tối ưu landing page- sử dụng dynamic để tối ưu khách truy cập lần 2 -> giảm giá sách hoặc tặng quà (dynamic content)
@@ -71,10 +71,10 @@ Nội dung Landing Page tiêu chuẩn:
 	- Notify
 - Section Footer
 	- Thông tin liên hệ (SDT, địa chỉ)
-	- <span style="background:#d3f8b6">Chính sách bảo hành</span>
-	- <span style="background:#d3f8b6">Chính sách vận chuyển</span>
-	- <span style="background:#d3f8b6">Chính sách bảo mật</span>
-	- <span style="background:#d3f8b6">Chính sách đổi trả</span>
+	- <span style="background:#d3f8b6"><font color="#000000">Chính sách bảo hành</font></span>
+	- <span style="background:#d3f8b6"><font color="#000000">Chính sách vận chuyển</font></span>
+	- <span style="background:#d3f8b6"><font color="#000000">Chính sách bảo mật</font></span>
+	- <span style="background:#d3f8b6"><font color="#000000">Chính sách đổi trả</font></span>
 
 
 Lưu ý 
