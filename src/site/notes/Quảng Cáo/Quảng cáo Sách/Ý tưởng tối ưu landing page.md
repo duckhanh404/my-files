@@ -33,7 +33,7 @@ Nội dung Landing Page tiêu chuẩn:
 	- Lợi ích khi đọc sách
 	- Cam kết khi mua sách
 - Câu hỏi thường gặp
-	- <span style="background:#d3f8b6">Một số câu hỏi khách thường thắc mắc - *test*</span>
+	- <font color="#000000"><span style="background:#d3f8b6">Một số câu hỏi khách thường thắc mắc - *test*</span></font>
 	- Câu trả lời
 - Về Tác giả - About author
 	- Vài nét về tác giả bộ sách, học vị -> tăng mức độ uy tín
@@ -55,7 +55,7 @@ Nội dung Landing Page tiêu chuẩn:
 	- Nội dung sách
 	- Quà tặng
 	- Giá Ưu đãi
-- <span style="background:#d3f8b6">Section Bảo hành</span>
+- <font color="#000000"><span style="background:#d3f8b6">Section Bảo hành</span></font>
 - Section Form
 	- <u>Ưu đãi</u>
 		- Giá
