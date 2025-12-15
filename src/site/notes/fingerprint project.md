@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fingerprint-project/","tags":["CloudFlare","QC"]}
+{"dg-publish":true,"permalink":"/fingerprint-project/","tags":["CloudFlare","QC","gardenEntry"]}
 ---
 
 
