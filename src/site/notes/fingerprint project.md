@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fingerprint-project/","tags":["CloudFlare","QC","gardenEntry"]}
+{"dg-publish":true,"permalink":"/fingerprint-project/","tags":["CloudFlare","QC"]}
 ---
 
 
@@ -11,11 +11,11 @@
 - Trang chính cũng điền script ở phía dưới
 - Khi khách điền form thành công -> chuyển về trang thank-you
 - trang thank-you cần có pixel, KHÔNG bật "Trang cảm ơn (thank you page"
-![Ảnh màn hình 2025-12-16 lúc 03.34.08.png|350](/img/user/%E1%BA%A2nh%20m%C3%A0n%20h%C3%ACnh%202025-12-16%20l%C3%BAc%2003.34.08.png) 
+[Ảnh1](https://drive.google.com/file/d/1XldImmTNEY11vfzJ_Lzq3L3ZTJWES9-z/view?usp=sharing) 
 # Hướng dẫn cách chặn khách
 - Kiểm tra IP khách, thời gian khách điền form trong google sheet
 - Trong cloudflare KV, và check fingerprint-list để tìm fingerprint chuẩn của người spam
-![Ảnh màn hình 2025-12-16 lúc 03.39.21 1.png|700](/img/user/%E1%BA%A2nh%20m%C3%A0n%20h%C3%ACnh%202025-12-16%20l%C3%BAc%2003.39.21%201.png)
+[Ảnh2](https://drive.google.com/file/d/1TcCFr3z3-5ouKzlxL4wtgiP0FhDxDoZz/view?usp=sharing)
 - Copy giá trị finger print của khách rồi chuyển sang KV blocked-fingerprint và điền:
 
 | Key                   | Value   |
